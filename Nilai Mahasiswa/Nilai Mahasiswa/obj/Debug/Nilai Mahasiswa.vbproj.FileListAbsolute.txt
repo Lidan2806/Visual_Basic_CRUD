@@ -1,0 +1,35 @@
+D:\KAMPUS\SEMESTER 6\PEMROGRAMAN VISUAL\New folder\Program Kasir 2\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.vbproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.adminlogin.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.haladmin.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.mahasiswa.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.prodi.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.matkul.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.perkuliahan.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.exe.config
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.exe
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.xml
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.pdb
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.exe
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.pdb
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\bin\Debug\Nilai Mahasiswa.xml
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.vbprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.perkuliahan.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.adminlogin.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.Form1.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.haladmin.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.mahasiswa.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.matkul.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.Resources.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai_Mahasiswa.prodi.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2015\Projects\Nilai Mahasiswa\Nilai Mahasiswa\Nilai Mahasiswa\obj\Debug\Nilai Mahasiswa.vbproj.GenerateResource.Cache
